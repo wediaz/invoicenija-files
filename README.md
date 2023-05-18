@@ -5,7 +5,7 @@ First you need to install `Git Server` for this script to work in your Synology 
 
 Copy code from script 1
 
-Go to `Control panel` >> `Task Scheduler` >> 
+Go to `Control panel` >> `Task Scheduler`
  
 #### Script 1
 ```
