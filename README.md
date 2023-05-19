@@ -7,7 +7,9 @@ Copy code: script 1
 
 Go to `Control panel` >> `Task Scheduler`
 
-Now create a task `Create` >> `Scheduled Task` >> `User-defined script`
+Now create a task `Create` >> `Scheduled Task` >> `User-defined script` Task: ninja-files (Or what ever you want) for User: root and click on next tab `Schedule` and choose `Run on the following date` 
+
+
  
 #### Script 1
 ```
