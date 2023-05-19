@@ -18,3 +18,6 @@ sudo git clone https://github.com/wediaz/invoicenija-files.git /volume1/docker/n
 docker run --rm invoiceninja/invoiceninja php artisan key:generate --show > /volume1/docker/ninja-files/key.txt
 cd /volume1/docker/ninja-files && rm -r .git && rm *.md
 ```
+Copy code: script 2
+
+next
