@@ -7,7 +7,7 @@ Copy code: script 1
 
 Go to `Control panel` >> `Task Scheduler`
 
-Now create a task `Create` >> `Scheduled Task` >> `User-defined script` Task: ninja-files (Or what ever you want) for User: root and click on next tab `Schedule` and choose `Run on the following date` 
+Now create a task `Create` >> `Scheduled Task` >> `User-defined script` Task: ninja-files (Or what ever you want) for User: root and click on next tab `Schedule` and choose `Run on the following date` by default I think is "Do not repeat" if not change to `Repeat: Do not repeat` Now click on the next tab `Task Settings` and past the script on `Run command` 
 
 
  
