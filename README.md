@@ -3,9 +3,11 @@
 
 First you need to install `Git Server` for this script to work in your Synology nas! (Go to your package center and search for `Git Server` and install it.
 
-Copy code from script 1
+Copy code: script 1
 
 Go to `Control panel` >> `Task Scheduler`
+
+Now create a task `Create` >> `Scheduled Task` >> `User-defined script`
  
 #### Script 1
 ```
